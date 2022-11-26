@@ -14,3 +14,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
+### Step 3
+
+```bash
+python 
+```
