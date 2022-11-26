@@ -14,6 +14,3 @@ pip install -r requirements.txt
 python main.py
 ```
 
-----
-added in global repo
----
